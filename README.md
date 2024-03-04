@@ -1,4 +1,4 @@
-#Vrinda Store Sales / MS Excel
+#**Vrinda Store Sales / MS Excel**
 
 
 »»Objective: Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and growmore sales in 2023.
